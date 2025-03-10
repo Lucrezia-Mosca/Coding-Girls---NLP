@@ -1,0 +1,12 @@
+Modelli di Linguaggio italiani su Hugging Face
+
+BERT-based
+                mBERT -> https://huggingface.co/google-bert/bert-base-multilingual-cased
+                AlBERTo -> https://huggingface.co/m-polignano-uniba/bert_uncased_L-12_H-768_A-12_italian_alb3rt0
+                BERT-it cased -> https://huggingface.co/dbmdz/bert-base-italian-xxl-cased
+                BERT-it uncased -> https://huggingface.co/dbmdz/bert-base-italian-xxl-uncased
+                XLM-RoBERTa -> https://huggingface.co/FacebookAI/xlm-roberta-large
+ 
+GPT-based
+                GePpeTto -> https://huggingface.co/LorenzoDeMattei/GePpeTto
+                Gpt2-italian -> https://huggingface.co/GroNLP/gpt2-small-italian
